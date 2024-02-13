@@ -19,8 +19,12 @@ Hey there! 👋
     <img src="https://skillicons.dev/icons?i=linkedin" />
  <a href="mailto:lemlemony@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-<a href="https://discordapp.com/users/540236356522344448">
+ <a href="https://discordapp.com/users/540236356522344448">
     <img src="https://skillicons.dev/icons?i=discord" />
+ <a href="https://www.instagram.com/lemonade.moreira?igsh=ZGUzMzM3NWJiOQ==">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+
+
 
