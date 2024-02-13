@@ -5,7 +5,8 @@ I'm taking baby steps into programming.
 
 *   🌍  I'm based in Maceió - Alagoas, Brazil
 *   ✉️  You can contact me at [lemlemony@gmail.com](mailto:lemlemony@gmail.com)
-*   🧠  I'm learning Python, Java, CSS, HTML, JS and SQL.<a href="https://www.x.com/lemonyowo" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Python, Java, CSS, HTML, JS and SQL. 
+<a href="https://www.x.com/lemonyowo" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/lemonyowo?logo=twitter&style=for-the-badge&color=10b981&labelColor=1c1917"
                 /></a><a href="https://www.twitch.tv/LemonyOwO" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/LemonyOwO?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>### Skills 
