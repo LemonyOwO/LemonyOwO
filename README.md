@@ -9,4 +9,5 @@ Hey there! 👋
   </a>
 </p>
 ## Contact me!
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateus-moreira-919948278/)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://www.linkedin.com/in/mateus-moreira-919948278/)
