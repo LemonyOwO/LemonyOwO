@@ -9,11 +9,9 @@ Hey there! 👋
   </a>
 </p>
 
-<div>
-<a href="https://github.com/LemonyOwO">
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonyOwO&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=LemonyOwO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+![LemonyOwO's Stats](https://github-readme-stats.vercel.app/api?username=LemonyOwO&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![LemonyOwO's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LemonyOwO&theme=vue-dark&hide_border=true)
+![LemonyOwO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonyOwO&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Contact me!
 <p align="center">
