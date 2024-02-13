@@ -8,3 +8,5 @@ Hey there! 👋
     <img src="https://skillicons.dev/icons?i=js,html,css,python" />
   </a>
 </p>
+## Contact me!
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateus-moreira-919948278/)
