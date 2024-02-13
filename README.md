@@ -11,4 +11,4 @@ Hey there! 👋
 
 ## Contact me!
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateus-moreira-919948278/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:lemlemony@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateus-moreira-919948278/)  [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:lemlemony@gmail.com)
