@@ -5,7 +5,7 @@ Hey there! 👋
 ## I'm learning...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,python" />
   </a>
 </p>
 
@@ -15,5 +15,7 @@ Hey there! 👋
     <img src="https://skillicons.dev/icons?i=linkedin" />
  <a href="mailto:lemlemony@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
+<a href="https://discordapp.com/users/540236356522344448">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
