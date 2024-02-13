@@ -13,5 +13,8 @@ Hey there! 👋
 <p align="center">
   <a href="https://www.linkedin.com/in/mateus-moreira-919948278">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+   </a>
+ <a href="mailto:lemlemony@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
