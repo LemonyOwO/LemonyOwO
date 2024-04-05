@@ -1,7 +1,7 @@
 Hey there! 👋
 =================================
 
- My name is Lemonade Moreira (he/she) - I'm a Student in Fullstack Development from Maceió, Alagoas - Brazil. I'm interested in web development, moderation and building thriving online communities. I work on random projects on my free time, mostly involving discord!
+ My name is Lemonade Moreira (he/she) - I'm a Student in Fullstack Development from Maceió, Alagoas - Brazil. I'm interested in web development, moderation and building thriving online communities. I work on random projects on my free time.
 ## I'm learning...
 <p align="center">
   <a href="https://skillicons.dev">
